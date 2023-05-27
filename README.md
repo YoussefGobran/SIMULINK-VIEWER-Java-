@@ -1,5 +1,11 @@
 # SIMULINK-VIEWER [Java]
 This JavaFX application allows the user to select a .mdl file and then renders a drawing of the shapes and lines contained within that .mdl file.
+## Team members
+- Andrew Ayman Samir 2000003
+- Youssef saad gobran 2001440
+- Tadros wagih shaker 2001785
+- Salma Waleed Ismail 2000308
+- Philopateer sameh rasmy 2000955
 
 ## To use this application: 
 1. Run the App.java file. This will open a window prompting the user to select a .mdl file.
